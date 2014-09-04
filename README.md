@@ -7,6 +7,7 @@ A Joomla module to displays a list of RSS items from an external website in your
 
 
 Version 1.0
+
 Based on the work of c.bavota http://bavotasan.com/2010/display-rss-feed-with-php/
 
 
